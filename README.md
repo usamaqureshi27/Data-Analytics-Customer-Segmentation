@@ -12,6 +12,10 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 **In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:**
 
 + [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Customer_Address_Cleaned.ipynb)
++ [DQA and Data Cleaning Customer Demographics.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Customer_Demographics_Cleaned.ipynb)
++ [DQA and Data Cleaning New Customers.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_New_Customers_Cleaned.ipynb)
++ [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Transactions_Cleaned.ipynb)
++ [EDA and RFM Analysis](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/EDA_RFM.ipynb)
 
 
 
