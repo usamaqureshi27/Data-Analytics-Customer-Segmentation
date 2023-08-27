@@ -56,5 +56,26 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   + A steep drop in customers is observed in the 30-39 age group among the New Customers.
 
 | Old Customers by Age Distribution | New Customers by Age Distribution |
-| :--------------------- | :---------------------- |
-| ![](Media/Old%20Customers%20-%20Age%20Distribution.png) | ![](Media/New%20Customers%20-%20Age%20Distribution.png) |
+| :------------- | :------------- |
+|![](Media/Old%20Customers%20-%20Age%20Distribution.png)|![](Media/New%20Customers%20-%20Age%20Distribution.png)|
+
+
+## Datasets Used
+The datasets used include:
++ **Raw_data.xlsx:** This excel file dataset included the following sheets of data:
+  + **Transactions_data.xlsx:** This dataset included the transactions data of the customers across all the different states in Australia.
+  + **NewCustomerList.xlsx:** This dataset included the new customers who visted the automobile bike company recently.
+  + **CustomerDemographic.xlsx:** This dataset included entire details of the Customer Demographics.
+  + **CustomerAddress.xlsx:** This dataset included the address of the Customers.
+  
+## Tools and Technologies Used
+The tools used in this project include:
++ **Python** - This was needed to conduct Data Quality Assessment and also for Data Cleaning processes. With Python libraries **pandas, matplotlib, seaborn** exploratory data analysis of the datasets and to gain useful insights from the data was possible.
++ **Tableau **- This Business Intelligence tool was required to explore data and create charts, graphs, visualizations to come up with a Sales Dashboard for Customer Segmenatation for the automobile bike company.
+
+## Built With
++ Python 3.10.11, Tableau
+
+## Authors
++ Usama Qureshi - [Github Profile](https://github.com/usamaqureshi27)
+  
