@@ -15,10 +15,10 @@ Olag,None,Male,60,1990-05-13,Human Resources Manager,Telecommunications,Mass Cus
 Melba,Spellacy,Female,38,1976-12-09,VP Marketing,Health,Mass Customer,N,No,4,0591 Anzinger Circle,2232,NSW,Australia,10,14,1.59375,46,50
 Mandie,Feares,Female,32,1964-04-19,Clinical Specialist,Health,Mass Customer,N,No,10,39 Kedzie Pass,4053,QLD,Australia,8,14,1.59375,59,60
 Dukie,Swire,Male,88,1954-03-31,Associate Professor,Manufacturing,Affluent Customer,N,Yes,5,64 Granby Parkway,2500,NSW,Australia,8,16,1.5625,69,70
-Marcelia,Monkleigh,Female,61,1993-08-22,Associate Professor,Manufacturing,Mass Customer,N,Yes,4,610 Swallow Street,4051,QLD,Australia,6,17,1.546875,29,30
+Marcelia,Monkleigh,Female,61,1993-08-22,Associate Professor,Manufacturing,Mass Customer,N,Yes,4,610 Swallow Street,4051,QLD,Australia,6,17,1.546875,30,30
 Winnifred,Beswetherick,Female,83,1976-06-08,Actuary,Financial Services,Mass Customer,N,No,14,61 4th Street,3040,VIC,Australia,10,17,1.546875,47,50
 Odilia,Quick,Female,65,1938-11-09,General Manager,Manufacturing,Affluent Customer,N,Yes,11,1550 Russell Way,2222,NSW,Australia,11,19,1.53125,84,90
-Karly,Willavize,Female,2,1954-08-12,Internal Auditor,Manufacturing,High Net Worth,N,No,12,193 North Point,2190,NSW,Australia,10,19,1.53125,68,70
+Karly,Willavize,Female,2,1954-08-12,Internal Auditor,Manufacturing,High Net Worth,N,No,12,193 North Point,2190,NSW,Australia,10,19,1.53125,69,70
 Teddie,Burchill,Male,11,1968-12-21,Programmer I,Manufacturing,Mass Customer,N,Yes,13,321 Raven Plaza,2161,NSW,Australia,9,21,1.515625,54,60
 Gaston,Dallaghan,Male,44,1993-09-29,Financial Analyst,Financial Services,Mass Customer,N,Yes,8,656 Fuller Street,2783,NSW,Australia,7,21,1.515625,29,30
 Otis,Ottey,Male,26,1998-02-05,Quality Engineer,Missing,Mass Customer,N,No,3,1562 Merchant Street,4744,QLD,Australia,4,23,1.5,25,30
@@ -87,7 +87,7 @@ Pietra,Buckleigh,Female,9,1949-04-29,Engineer III,Missing,High Net Worth,N,No,13
 Marysa,Rouchy,Female,8,1999-02-15,Assistant Media Planner,Entertainment,Affluent Customer,N,No,5,411 Twin Pines Way,2026,NSW,Australia,9,85,1.325,24,30
 Kahaleel,None,Male,5,1942-11-01,GIS Technical Architect,Missing,High Net Worth,N,No,13,12 Arapahoe Park,2035,NSW,Australia,12,88,1.31484375,80,80
 Ossie,Midden,Male,49,1950-02-10,Physical Therapy Assistant,Manufacturing,Mass Customer,N,Yes,14,4915 Debra Center,2479,NSW,Australia,9,89,1.3125,73,80
-Sid,Carlone,Male,24,1971-08-18,Structural Engineer,Health,Affluent Customer,N,No,16,76 Sunnyside Avenue,4670,QLD,Australia,2,89,1.3125,51,60
+Sid,Carlone,Male,24,1971-08-18,Structural Engineer,Health,Affluent Customer,N,No,16,76 Sunnyside Avenue,4670,QLD,Australia,2,89,1.3125,52,60
 Ludovico,Juster,Male,93,1992-04-19,Environmental Specialist,Missing,Affluent Customer,N,No,15,1 Talisman Avenue,2125,NSW,Australia,10,89,1.3125,31,40
 Patricia,Everix,Female,34,1978-02-19,Director of Sales,Health,Mass Customer,N,No,19,91164 Washington Terrace,2263,NSW,Australia,7,89,1.3125,45,50
 Andromache,Bonafacino,Female,84,1977-09-01,Associate Professor,Retail,Mass Customer,N,No,11,74 Carpenter Street,2015,NSW,Australia,9,89,1.3125,45,50
@@ -111,7 +111,7 @@ Michal,Bryan,Female,1,1969-11-09,Associate Professor,Manufacturing,Mass Customer
 Franciska,Stigell,Female,95,1968-11-15,Food Chemist,Health,Mass Customer,N,Yes,7,6 Anderson Junction,3802,VIC,Australia,7,111,1.28125,54,60
 Jordan,Clampe,Male,37,1939-12-09,Staff Scientist,Financial Services,Mass Customer,N,Yes,11,276 Westend Road,4207,QLD,Australia,5,111,1.28125,83,90
 David,Napoleon,Male,72,1961-11-05,Structural Engineer,Missing,High Net Worth,N,No,14,69 Garrison Point,2223,NSW,Australia,11,111,1.28125,61,70
-Meriel,Tapp,Female,0,1995-08-13,VP Sales,IT,Mass Customer,N,No,5,65 Milwaukee Hill,3280,VIC,Australia,2,114,1.275,27,30
+Meriel,Tapp,Female,0,1995-08-13,VP Sales,IT,Mass Customer,N,No,5,65 Milwaukee Hill,3280,VIC,Australia,2,114,1.275,28,30
 Dolley,Starmont,Female,53,1977-11-08,Geologist IV,Manufacturing,Affluent Customer,N,No,18,4252 Dovetail Pass,4129,QLD,Australia,6,114,1.275,45,50
 Frederik,Milan,Male,45,1997-11-13,Associate Professor,Health,Mass Customer,N,No,5,56 Riverside Street,2546,NSW,Australia,5,114,1.275,25,30
 Rollo,Louedey,Male,64,1946-07-09,Information Systems Manager,Telecommunications,Affluent Customer,N,Yes,17,7 Cascade Park,2089,NSW,Australia,9,114,1.275,77,80
@@ -151,7 +151,7 @@ Bernardine,Delmonti,Female,39,1971-03-31,Associate Professor,Property,Mass Custo
 Daisy,Spowart,Female,60,1967-12-18,Staff Accountant I,Health,Affluent Customer,N,Yes,4,115 Westridge Road,4570,QLD,Australia,3,146,1.225,55,60
 Denys,Minshall,Female,30,1961-12-26,Environmental Tech,Manufacturing,Affluent Customer,N,Yes,14,7 Myrtle Lane,2324,NSW,Australia,8,152,1.221875,61,70
 Archibald,Blessed,Male,61,1969-02-10,VP Sales,Financial Services,Mass Customer,N,Yes,18,7795 Memorial Drive,2016,NSW,Australia,11,153,1.21875,54,60
-Feodor,Englishby,Male,54,1961-08-14,Account Coordinator,Health,Mass Customer,N,No,11,24695 Boyd Road,3201,VIC,Australia,5,154,1.203125,61,70
+Feodor,Englishby,Male,54,1961-08-14,Account Coordinator,Health,Mass Customer,N,No,11,24695 Boyd Road,3201,VIC,Australia,5,154,1.203125,62,70
 Skippie,Yearsley,Male,6,1956-09-04,Compensation Analyst,Financial Services,Mass Customer,N,No,9,95306 John Wall Avenue,4350,QLD,Australia,5,155,1.2,66,70
 Bill,None,Female,74,1963-04-24,Human Resources Assistant II,Property,Mass Customer,N,Yes,19,6704 Pine View Lane,2170,NSW,Australia,9,155,1.2,60,60
 Tessa,Friese,Female,89,1976-10-24,Health Coach II,Financial Services,Mass Customer,N,No,21,98158 Alpine Point,4212,QLD,Australia,9,157,1.1953125,46,50
@@ -160,7 +160,7 @@ Tedra,Goodbanne,Female,4,1978-01-15,Senior Quality Engineer,Missing,Mass Custome
 Roberto,Harme,Male,27,1951-06-11,Environmental Tech,Missing,High Net Worth,N,No,10,101 Starling Pass,2564,NSW,Australia,9,158,1.1875,72,80
 Nichole,Leisman,Male,37,1986-08-07,Geologist III,Property,Affluent Customer,N,No,4,35151 Bunker Hill Crossing,2068,NSW,Australia,12,158,1.1875,37,40
 Amil,Ennor,Female,23,1995-08-04,Health Coach II,Health,Mass Customer,N,Yes,10,2093 Amoth Pass,3109,VIC,Australia,11,158,1.1875,28,30
-Shawna,Hinrichsen,Female,60,1969-08-27,Assistant Professor,Manufacturing,Affluent Customer,N,Yes,9,57343 Eagan Avenue,2326,NSW,Australia,2,163,1.18203125,53,60
+Shawna,Hinrichsen,Female,60,1969-08-27,Assistant Professor,Manufacturing,Affluent Customer,N,Yes,9,57343 Eagan Avenue,2326,NSW,Australia,2,163,1.18203125,54,60
 Fonsie,Levane,Male,96,1951-07-10,Account Representative III,Missing,High Net Worth,N,Yes,19,83 Armistice Terrace,4011,QLD,Australia,3,163,1.18203125,72,80
 Emilie,Brody,Female,3,1979-05-22,Director of Sales,Missing,Mass Customer,N,Yes,3,5388 Burrows Alley,2073,NSW,Australia,11,163,1.18203125,44,50
 Robert,Corkill,Male,55,1976-03-12,Clinical Specialist,Health,Mass Customer,N,No,4,5612 Toban Point,2227,NSW,Australia,10,166,1.175,47,50
@@ -204,8 +204,8 @@ Glyn,None,Male,47,1945-02-13,General Manager,Manufacturing,Affluent Customer,N,Y
 Rosemonde,Cartwight,Female,44,1952-10-20,Analyst Programmer,Retail,Mass Customer,N,Yes,7,518 Paget Hill,4605,QLD,Australia,1,202,1.140625,70,70
 Alano,Satchel,Male,2,1998-11-26,Recruiting Manager,Missing,Mass Customer,N,No,2,87107 Shelley Crossing,2429,NSW,Australia,7,202,1.140625,24,30
 Corrine,Baribal,Female,19,1948-10-12,Senior Sales Associate,Missing,Affluent Customer,N,Yes,12,3 Mallory Circle,2170,NSW,Australia,8,206,1.1375,74,80
-Benoit,Harniman,Male,31,1976-08-27,Research Assistant II,Telecommunications,Affluent Customer,N,No,9,1582 Bashford Drive,4018,QLD,Australia,7,206,1.1375,46,50
-Jeanne,Darte,Female,70,1955-08-18,Associate Professor,Missing,Mass Customer,N,Yes,11,3 Homewood Park,2756,NSW,Australia,7,206,1.1375,67,70
+Benoit,Harniman,Male,31,1976-08-27,Research Assistant II,Telecommunications,Affluent Customer,N,No,9,1582 Bashford Drive,4018,QLD,Australia,7,206,1.1375,47,50
+Jeanne,Darte,Female,70,1955-08-18,Associate Professor,Missing,Mass Customer,N,Yes,11,3 Homewood Park,2756,NSW,Australia,7,206,1.1375,68,70
 Jenelle,Fearnill,Female,12,1958-01-03,Social Worker,Health,High Net Worth,N,No,19,06 Old Gate Park,2144,NSW,Australia,9,206,1.1375,65,70
 Tannie,Gambrell,Male,92,1967-05-25,Financial Analyst,Financial Services,Affluent Customer,N,No,4,49 Surrey Point,4710,QLD,Australia,4,206,1.1375,56,60
 Mick,Macewan,Male,32,1967-12-12,Senior Cost Accountant,Financial Services,Mass Customer,N,No,16,59254 Northland Alley,2032,NSW,Australia,10,206,1.1375,55,60
@@ -229,7 +229,7 @@ Maribeth,Stivani,Female,46,1954-11-13,Associate Professor,Financial Services,Mas
 Abigale,Sives,Female,48,1963-12-13,VP Marketing,Health,Affluent Customer,N,Yes,14,2 Glendale Center,4207,QLD,Australia,4,230,1.109375,59,60
 Gothart,Artus,Male,52,1978-05-31,Health Coach IV,Health,Mass Customer,N,Yes,14,21824 Northridge Alley,2117,NSW,Australia,10,231,1.105,45,50
 Danny,Bodle,Male,50,1943-09-24,Statistician I,Manufacturing,Mass Customer,N,Yes,18,68 Anthes Park,2007,NSW,Australia,9,231,1.105,79,80
-Vittorio,Boxen,Male,94,1965-08-15,Mechanical Systems Engineer,Missing,Mass Customer,N,No,14,3 Anthes Court,2148,NSW,Australia,9,233,1.1,57,60
+Vittorio,Boxen,Male,94,1965-08-15,Mechanical Systems Engineer,Missing,Mass Customer,N,No,14,3 Anthes Court,2148,NSW,Australia,9,233,1.1,58,60
 Deborah,Petrovsky,Female,53,1943-07-14,Teacher,Property,Mass Customer,N,No,16,036 Redwing Street,2011,NSW,Australia,7,233,1.1,80,80
 Agace,Hedge,Female,25,1997-07-23,Media Manager II,Missing,Mass Customer,N,Yes,13,92 Petterle Place,3429,VIC,Australia,8,233,1.1,26,30
 Rolland,Esmead,Male,41,1940-07-13,Associate Professor,Health,Affluent Customer,N,No,8,72008 7th Avenue,2200,NSW,Australia,8,233,1.1,83,90
@@ -269,7 +269,7 @@ Raff,Waycott,Male,70,1951-12-16,Engineer IV,Manufacturing,Affluent Customer,N,Ye
 Lark,Gonet,Female,89,1972-01-17,Database Administrator II,Health,High Net Worth,N,No,8,261 Orin Center,2763,NSW,Australia,8,259,1.0625,51,60
 Cletis,Longley,Male,84,1996-07-01,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,1,667 Waxwing Plaza,3199,VIC,Australia,7,271,1.06,27,30
 Bartram,Di Lucia,Male,70,1961-01-03,Associate Professor,Argiculture,Mass Customer,N,Yes,5,83509 Delaware Street,2480,NSW,Australia,3,271,1.06,62,70
-Theresa,Cowper,Female,99,1976-08-24,Accountant III,Manufacturing,Mass Customer,N,No,3,88 Mifflin Pass,2529,NSW,Australia,10,271,1.06,46,50
+Theresa,Cowper,Female,99,1976-08-24,Accountant III,Manufacturing,Mass Customer,N,No,3,88 Mifflin Pass,2529,NSW,Australia,10,271,1.06,47,50
 Philbert,Raraty,Male,48,1956-06-28,Executive Secretary,Manufacturing,Mass Customer,N,No,6,10 Dexter Park,2177,NSW,Australia,9,274,1.051875,67,70
 Egon,Ortells,Male,35,1976-06-11,Structural Engineer,Manufacturing,Affluent Customer,N,No,13,3 Sundown Hill,2168,NSW,Australia,9,274,1.051875,47,50
 Dahlia,Shovlar,Female,90,1966-03-07,Environmental Specialist,Missing,Affluent Customer,N,Yes,7,655 Glendale Trail,3976,VIC,Australia,3,274,1.051875,57,60
@@ -298,15 +298,15 @@ Geoff,Sitford,Male,97,1965-02-27,Account Executive,Financial Services,Mass Custo
 Ange,Chitham,Female,91,1991-02-14,Associate Professor,Argiculture,Mass Customer,N,No,10,00003 Hoffman Pass,2560,NSW,Australia,8,297,1.030625,32,40
 Tiphanie,Blackader,Female,59,1947-10-08,Physical Therapy Assistant,Retail,Mass Customer,N,No,17,71 Stone Corner Avenue,2007,NSW,Australia,11,297,1.030625,75,80
 Zollie,Crinidge,Male,39,1988-01-10,Systems Administrator I,Retail,Mass Customer,N,Yes,10,0 Esker Avenue,4019,QLD,Australia,5,297,1.030625,35,40
-Daisy,Pollen,Female,97,1993-08-09,Cost Accountant,Financial Services,Mass Customer,N,No,7,61825 Debs Terrace,3167,VIC,Australia,9,302,1.03,29,30
+Daisy,Pollen,Female,97,1993-08-09,Cost Accountant,Financial Services,Mass Customer,N,No,7,61825 Debs Terrace,3167,VIC,Australia,9,302,1.03,30,30
 Emelen,Bidnall,Male,79,1981-08-05,Systems Administrator IV,Health,Affluent Customer,N,Yes,11,11 Oak Terrace,2026,NSW,Australia,12,302,1.03,42,50
 Linette,Boman,Female,56,1949-05-20,Account Executive,Missing,Affluent Customer,N,No,11,7 Michigan Hill,2076,NSW,Australia,11,304,1.025,74,80
 Manya,Abramovici,Female,42,1955-07-17,Quality Engineer,Financial Services,High Net Worth,N,Yes,13,8 Randy Park,4214,QLD,Australia,8,304,1.025,68,70
-Brynna,Tivers,Female,81,1974-08-09,Recruiting Manager,Financial Services,Mass Customer,N,No,6,0 Mayfield Parkway,4272,QLD,Australia,7,304,1.025,48,50
+Brynna,Tivers,Female,81,1974-08-09,Recruiting Manager,Financial Services,Mass Customer,N,No,6,0 Mayfield Parkway,4272,QLD,Australia,7,304,1.025,49,50
 Art,Carolan,Male,1,1954-11-09,Marketing Manager,Missing,Affluent Customer,N,Yes,11,57903 Hanson Parkway,2570,NSW,Australia,9,304,1.025,68,70
 Alfi,Sabbins,Female,63,1959-06-12,Associate Professor,Financial Services,High Net Worth,N,Yes,18,763 Ridgeway Place,2344,NSW,Australia,3,304,1.025,64,70
 Loleta,Aberdalgy,Female,45,1981-02-15,Occupational Therapist,Health,Mass Customer,N,No,11,99 Westend Court,2287,NSW,Australia,6,304,1.025,42,50
-Aldric,Birney,Male,21,1971-08-19,Associate Professor,Manufacturing,Mass Customer,N,Yes,14,5 Caliangt Center,2546,NSW,Australia,6,310,1.02265625,51,60
+Aldric,Birney,Male,21,1971-08-19,Associate Professor,Manufacturing,Mass Customer,N,Yes,14,5 Caliangt Center,2546,NSW,Australia,6,310,1.02265625,52,60
 Natividad,Balducci,Female,39,1991-02-07,Associate Professor,Property,High Net Worth,N,Yes,10,4472 Washington Junction,3206,VIC,Australia,11,310,1.02265625,32,40
 Claudine,Dymick,Female,28,1965-12-13,Design Engineer,Health,Mass Customer,N,No,5,31675 Corry Way,3977,VIC,Australia,5,312,1.02,57,60
 Seamus,Cains,Male,61,1989-12-15,Teacher,Manufacturing,High Net Worth,N,No,7,4882 Dakota Center,2305,NSW,Australia,8,312,1.02,33,40
@@ -320,7 +320,7 @@ Zach,Hedman,Male,87,1981-09-11,Analyst Programmer,Financial Services,Affluent Cu
 Paxon,Roomes,Male,78,1976-11-06,Information Systems Manager,Missing,High Net Worth,N,Yes,7,3 Express Lane,3021,VIC,Australia,7,320,1.015625,46,50
 Parnell,Lamprey,Male,23,1977-04-08,Engineer III,Financial Services,High Net Worth,N,No,12,7353 Mallard Junction,2165,NSW,Australia,6,322,1.0125,46,50
 Honey,Gosdin,Female,0,1981-11-29,Software Engineer I,Property,Mass Customer,N,No,17,066 Warner Trail,2582,NSW,Australia,9,322,1.0125,41,50
-Sonny,McCart,Male,35,1992-08-27,Account Representative I,Manufacturing,High Net Worth,N,No,9,52752 Barby Hill,3020,VIC,Australia,9,324,1.01,30,30
+Sonny,McCart,Male,35,1992-08-27,Account Representative I,Manufacturing,High Net Worth,N,No,9,52752 Barby Hill,3020,VIC,Australia,9,324,1.01,31,40
 Deirdre,Burgoine,Female,14,1955-01-08,Programmer III,Health,High Net Worth,N,No,7,0 Stoughton Park,3000,VIC,Australia,1,326,1.009375,68,70
 Haleigh,None,Female,17,1952-05-19,Senior Sales Associate,Financial Services,Mass Customer,N,Yes,18,49 Jana Point,4503,QLD,Australia,4,326,1.009375,71,80
 Aldridge,Poskitt,Male,84,1982-02-10,VP Sales,Missing,Mass Customer,N,No,12,7 Fordem Point,4161,QLD,Australia,5,326,1.009375,41,50
@@ -331,7 +331,7 @@ Ahmed,Pickthorne,Male,46,1959-12-25,Marketing Manager,Missing,High Net Worth,N,Y
 Nil,Shirer,Male,64,1997-09-27,Librarian,Entertainment,Mass Customer,N,Yes,7,4793 Mcbride Pass,3013,VIC,Australia,8,329,1.0,25,30
 Erhard,O'Moylane,Male,33,1978-05-27,Media Manager I,Retail,Affluent Customer,N,Yes,9,01124 Dottie Lane,3630,VIC,Australia,2,334,0.9987499999999998,45,50
 Vitia,Axtens,Female,62,1945-08-08,Financial Advisor,Financial Services,Mass Customer,N,Yes,15,42681 Carey Alley,2011,NSW,Australia,10,334,0.9987499999999998,78,80
-Haskell,Moxted,Male,81,1943-08-27,Civil Engineer,Manufacturing,Mass Customer,N,No,7,2941 Talisman Alley,2145,NSW,Australia,9,334,0.9987499999999998,79,80
+Haskell,Moxted,Male,81,1943-08-27,Civil Engineer,Manufacturing,Mass Customer,N,No,7,2941 Talisman Alley,2145,NSW,Australia,9,334,0.9987499999999998,80,80
 Ebony,Conrad,Female,8,1999-10-24,Environmental Tech,Financial Services,Mass Customer,N,Yes,16,990 Hoffman Avenue,3029,VIC,Australia,7,334,0.9987499999999998,23,30
 Lincoln,Boler,Male,53,1976-01-24,Chief Design Engineer,Missing,Affluent Customer,N,No,14,5 Summer Ridge Court,3207,VIC,Australia,8,338,0.99609375,47,50
 Vladimir,Westmerland,Male,18,1956-06-19,Associate Professor,Manufacturing,Mass Customer,N,Yes,18,102 Charing Cross Terrace,2640,NSW,Australia,4,338,0.99609375,67,70
@@ -359,13 +359,13 @@ Muffin,Grigolon,Male,7,1979-10-31,Senior Editor,Telecommunications,Mass Customer
 Allsun,Biner,Female,67,1997-12-26,Nurse Practicioner,Financial Services,Mass Customer,N,Yes,10,9 Walton Way,2641,NSW,Australia,2,361,0.9775,25,30
 Kenneth,Elleyne,Male,13,1957-09-03,Technical Writer,Financial Services,Mass Customer,N,No,13,27429 Dottie Plaza,3145,VIC,Australia,11,361,0.9775,65,70
 Clotilda,Southers,Female,62,1999-11-08,Computer Systems Analyst II,Financial Services,Mass Customer,N,Yes,15,42 Donald Hill,2323,NSW,Australia,4,361,0.9775,23,30
-Augustus,Bourley,Male,60,1981-08-17,Associate Professor,Health,Affluent Customer,N,No,18,3 Hoepker Parkway,4152,QLD,Australia,10,366,0.9750000000000001,41,50
+Augustus,Bourley,Male,60,1981-08-17,Associate Professor,Health,Affluent Customer,N,No,18,3 Hoepker Parkway,4152,QLD,Australia,10,366,0.9750000000000001,42,50
 Daisi,Tinwell,Female,84,1971-12-24,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,11,19561 Express Street,2777,NSW,Australia,8,366,0.9750000000000001,51,60
 Gerik,Woodroof,Male,18,1959-06-13,Paralegal,Financial Services,High Net Worth,N,Yes,9,41 Kropf Road,3175,VIC,Australia,7,366,0.9750000000000001,64,70
 Claresta,MacConnulty,Female,6,1957-10-01,Recruiting Manager,Missing,Mass Customer,N,Yes,20,0516 Fremont Point,2026,NSW,Australia,9,366,0.9750000000000001,65,70
 Arty,Fontelles,Male,50,1994-10-21,Help Desk Technician,IT,High Net Worth,N,No,4,7872 South Junction,3197,VIC,Australia,4,370,0.97,28,30
 Giulia,Hazart,Female,57,1978-08-02,Help Desk Technician,Missing,Mass Customer,N,No,11,81 Donald Parkway,4218,QLD,Australia,11,371,0.96875,45,50
-Whit,Emloch,Male,30,1963-08-20,Food Chemist,Health,Mass Customer,N,Yes,6,105 Carpenter Court,2220,NSW,Australia,9,372,0.9668749999999999,59,60
+Whit,Emloch,Male,30,1963-08-20,Food Chemist,Health,Mass Customer,N,Yes,6,105 Carpenter Court,2220,NSW,Australia,9,372,0.9668749999999999,60,60
 Rowan,Summerly,Male,4,1974-07-05,Librarian,Entertainment,Mass Customer,N,No,9,58231 Tomscot Plaza,2209,NSW,Australia,10,372,0.9668749999999999,49,50
 Ian,Rabat,Male,54,1975-08-04,Web Designer I,Financial Services,Affluent Customer,N,No,11,3 Loeprich Point,3204,VIC,Australia,11,372,0.9668749999999999,48,50
 Reginald,Jermy,Male,7,1960-09-12,Director of Sales,Missing,High Net Worth,N,Yes,20,540 Katie Street,4128,QLD,Australia,8,375,0.96,62,70
@@ -380,7 +380,7 @@ Alexa,Dillet,Female,65,1944-10-05,Product Engineer,Entertainment,Affluent Custom
 Palmer,Heaven,Male,82,1995-05-18,Staff Scientist,Financial Services,Affluent Customer,N,Yes,9,5 Hoard Parkway,3754,VIC,Australia,6,382,0.95,28,30
 Porter,Buckenhill,Male,46,1954-06-14,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,9,376 Talmadge Street,4124,QLD,Australia,7,386,0.945625,69,70
 Kizzee,Kemston,Female,11,1961-09-29,Associate Professor,Health,Mass Customer,N,No,13,5979 Green Ridge Way,2767,NSW,Australia,8,386,0.945625,61,70
-Isadora,Ducker,Female,15,1973-08-25,Account Executive,Missing,Affluent Customer,N,Yes,8,2972 Holy Cross Crossing,3153,VIC,Australia,5,386,0.945625,49,50
+Isadora,Ducker,Female,15,1973-08-25,Account Executive,Missing,Affluent Customer,N,Yes,8,2972 Holy Cross Crossing,3153,VIC,Australia,5,386,0.945625,50,50
 Giffie,Offill,Male,51,1993-03-02,Structural Engineer,Telecommunications,Affluent Customer,N,No,5,89 Riverside Court,4740,QLD,Australia,3,386,0.945625,30,30
 Fara,Sarath,Female,75,1948-06-30,Quality Control Specialist,Missing,Mass Customer,N,No,22,540 Forest Run Plaza,2168,NSW,Australia,7,386,0.945625,75,80
 Carolann,Raatz,Female,25,1979-02-26,Chief Design Engineer,Missing,High Net Worth,N,No,21,817 Bunker Hill Place,3977,VIC,Australia,6,386,0.945625,44,50
@@ -391,14 +391,14 @@ Hanson,Eastes,Male,74,1990-05-20,Associate Professor,Manufacturing,Mass Customer
 Demetria,Bausor,Female,73,1961-12-22,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,9,97 Transport Plaza,2097,NSW,Australia,12,396,0.9375,61,70
 Lura,Fawdrie,Female,66,2002-01-17,VP Sales,Health,Mass Customer,N,Yes,4,67183 Anniversary Parkway,4211,QLD,Australia,3,396,0.9375,21,30
 Nora,Anselm,Female,84,1961-01-05,Associate Professor,Entertainment,High Net Worth,N,Yes,15,2 Emmet Parkway,4342,QLD,Australia,5,396,0.9375,62,70
-Estevan,Eastment,Male,54,1942-08-09,Environmental Specialist,Health,Mass Customer,N,Yes,21,61926 Tomscot Hill,2019,NSW,Australia,8,396,0.9375,80,80
+Estevan,Eastment,Male,54,1942-08-09,Environmental Specialist,Health,Mass Customer,N,Yes,21,61926 Tomscot Hill,2019,NSW,Australia,8,396,0.9375,81,90
 Aloysius,Glowacz,Male,72,1979-03-24,Financial Advisor,Financial Services,Affluent Customer,N,No,18,07 Susan Lane,2232,NSW,Australia,10,396,0.9375,44,50
 Bastien,Ibbeson,Male,53,1976-11-04,Software Consultant,IT,Mass Customer,N,No,12,43094 Kedzie Pass,2487,NSW,Australia,5,401,0.935,46,50
 Otha,Langworthy,Female,91,1967-01-20,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,13,678 Lyons Trail,3130,VIC,Australia,10,401,0.935,56,60
 Gannie,Bargh,Male,56,1955-02-13,Analyst Programmer,Missing,Mass Customer,N,Yes,13,1832 Burning Wood Place,3201,VIC,Australia,7,401,0.935,68,70
 Dwayne,Doel,Male,80,1978-01-21,Cost Accountant,Financial Services,Affluent Customer,N,Yes,17,5642 Debs Terrace,2223,NSW,Australia,11,401,0.935,45,50
 Leese,Huckleby,Female,67,1977-09-10,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,16,73 Riverside Trail,3777,VIC,Australia,7,405,0.93,45,50
-Dodi,Kiggel,Female,5,1980-08-15,Associate Professor,Financial Services,Mass Customer,N,Yes,13,05 Everett Trail,2114,NSW,Australia,11,405,0.93,42,50
+Dodi,Kiggel,Female,5,1980-08-15,Associate Professor,Financial Services,Mass Customer,N,Yes,13,05 Everett Trail,2114,NSW,Australia,11,405,0.93,43,50
 Kippar,Brimilcome,Male,21,1938-11-29,Graphic Designer,Health,Mass Customer,N,No,19,082 Welch Lane,2089,NSW,Australia,11,405,0.93,84,90
 Corinna,Beretta,Female,24,1996-02-29,Programmer III,Health,High Net Worth,N,No,12,72 Mccormick Circle,3023,VIC,Australia,7,408,0.9296875,27,30
 Laurie,Odlin,Female,75,1983-03-08,Social Worker,Health,High Net Worth,N,No,10,15669 Arizona Trail,3194,VIC,Australia,10,409,0.925,40,40
@@ -428,7 +428,7 @@ Marilin,Frome,Female,58,1975-12-22,Account Executive,IT,Mass Customer,N,Yes,17,5
 Arel,Abramovitz,Male,72,1957-11-12,Nurse Practicioner,Health,Mass Customer,N,No,16,32249 Sycamore Way,4650,QLD,Australia,4,433,0.90625,65,70
 Kit,Easdon,Male,61,1978-10-26,Director of Sales,Property,Affluent Customer,N,No,12,3 Roth Junction,3156,VIC,Australia,8,433,0.90625,44,50
 Skipp,Swales,Male,15,1973-11-14,Community Outreach Specialist,Entertainment,High Net Worth,N,Yes,22,76 Green Ridge Drive,3029,VIC,Australia,7,436,0.903125,49,50
-Frederich,Glantz,Male,37,1997-08-27,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,10,9 Glacier Hill Circle,2762,NSW,Australia,8,436,0.903125,25,30
+Frederich,Glantz,Male,37,1997-08-27,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,10,9 Glacier Hill Circle,2762,NSW,Australia,8,436,0.903125,26,30
 Rodolph,Denniss,Male,28,1974-08-07,Geologist III,Property,Affluent Customer,N,Yes,7,91281 Transport Center,3356,VIC,Australia,2,436,0.903125,49,50
 Craggie,Dering,Male,47,1952-10-05,Actuary,Financial Services,Mass Customer,N,No,7,11 Paget Road,2125,NSW,Australia,10,436,0.903125,70,70
 Giralda,MacPeake,Female,59,1941-04-04,Librarian,Entertainment,High Net Worth,N,Yes,14,6 Killdeer Way,2705,NSW,Australia,1,441,0.901,82,90
@@ -448,7 +448,7 @@ Stearne,Trolley,Male,42,1982-02-01,Automation Specialist IV,Financial Services,H
 Tristam,Larose,Male,70,1985-01-29,VP Accounting,Financial Services,Mass Customer,N,No,17,9645 Moose Terrace,2137,NSW,Australia,11,455,0.8925,38,40
 Laurena,None,Female,21,1961-07-31,VP Sales,Missing,High Net Worth,N,No,10,7 Messerschmidt Crossing,3810,VIC,Australia,6,455,0.8925,62,70
 Heloise,Fairpool,Female,17,1976-09-07,Information Systems Manager,Manufacturing,High Net Worth,N,No,17,005 Loeprich Way,4680,QLD,Australia,3,455,0.8925,46,50
-Dory,Malpass,Female,19,1972-08-27,Associate Professor,Missing,Affluent Customer,N,Yes,13,3653 Steensland Road,4103,QLD,Australia,8,455,0.8925,50,50
+Dory,Malpass,Female,19,1972-08-27,Associate Professor,Missing,Affluent Customer,N,Yes,13,3653 Steensland Road,4103,QLD,Australia,8,455,0.8925,51,60
 Marcellina,Baynton,Female,60,1947-03-11,Software Engineer III,Financial Services,Mass Customer,N,No,16,56 Comanche Terrace,3141,VIC,Australia,10,455,0.8925,76,80
 Gregorius,Leal,Male,7,1951-04-29,Associate Professor,Retail,Affluent Customer,N,Yes,21,66 Merry Court,2033,NSW,Australia,12,455,0.8925,72,80
 Deana,Canton,Female,67,1974-11-25,Associate Professor,Property,Mass Customer,N,Yes,14,92 Ludington Street,4301,QLD,Australia,3,455,0.8925,48,50
@@ -474,7 +474,7 @@ Carola,Philler,Female,73,1951-04-30,Dental Hygienist,Health,High Net Worth,N,No,
 Fitzgerald,Hellikes,Male,25,1979-07-28,Media Manager IV,Health,Mass Customer,N,Yes,10,315 Center Park,3040,VIC,Australia,7,478,0.88,44,50
 Ingmar,Okenden,Male,97,1959-03-01,Compensation Analyst,Financial Services,Mass Customer,N,Yes,8,1 Graceland Plaza,3216,VIC,Australia,2,478,0.88,64,70
 Tina,Dunstan,Female,13,1939-03-06,Account Representative IV,Retail,Affluent Customer,N,No,13,98555 Victoria Hill,2171,NSW,Australia,7,483,0.8765625,84,90
-Huberto,Mollatt,Male,82,1961-08-27,Programmer IV,Missing,Mass Customer,N,Yes,14,31121 Pierstorff Center,2770,NSW,Australia,7,483,0.8765625,61,70
+Huberto,Mollatt,Male,82,1961-08-27,Programmer IV,Missing,Mass Customer,N,Yes,14,31121 Pierstorff Center,2770,NSW,Australia,7,483,0.8765625,62,70
 Georgi,None,Male,29,1970-01-14,Assistant Manager,Manufacturing,High Net Worth,N,No,11,59 Garrison Terrace,3215,VIC,Australia,4,485,0.8755,53,60
 Adolpho,Bellerby,Male,46,1944-10-25,VP Sales,Financial Services,High Net Worth,N,Yes,13,2763 Buhler Circle,4305,QLD,Australia,4,486,0.875,78,80
 Kelsey,Hatt,Female,69,1966-06-27,Senior Sales Associate,Financial Services,High Net Worth,N,No,8,309 Maple Wood Pass,3930,VIC,Australia,6,486,0.875,57,60
@@ -493,7 +493,7 @@ Sula,Thomann,Female,56,1989-03-17,Assistant Manager,Missing,Mass Customer,N,No,6
 Renell,Earley,Female,5,1954-10-21,Compensation Analyst,Financial Services,Mass Customer,N,Yes,11,79 Manufacturers Plaza,4171,QLD,Australia,5,500,0.86,68,70
 Cliff,Philipsson,Male,82,1967-02-02,Structural Analysis Engineer,Argiculture,Mass Customer,N,No,16,600 Artisan Drive,3149,VIC,Australia,10,500,0.86,56,60
 Clevey,Aisthorpe,Male,27,1976-09-20,Software Consultant,Missing,Mass Customer,N,Yes,8,0 Veith Way,2009,NSW,Australia,9,502,0.8584999999999999,46,50
-Cariotta,None,Female,10,1974-08-19,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,17,2336 Continental Point,2527,NSW,Australia,7,502,0.8584999999999999,48,50
+Cariotta,None,Female,10,1974-08-19,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,17,2336 Continental Point,2527,NSW,Australia,7,502,0.8584999999999999,49,50
 George,Jose,Male,68,1960-12-19,Payment Adjustment Coordinator,Retail,High Net Worth,N,Yes,20,535 Corben Point,4680,QLD,Australia,4,504,0.8500000000000001,62,70
 Kissiah,Foat,Female,30,1975-09-11,Graphic Designer,Missing,Mass Customer,N,Yes,19,1690 Forster Place,2281,NSW,Australia,9,504,0.8500000000000001,47,50
 Milty,Brauninger,Male,13,1945-07-10,Payment Adjustment Coordinator,Missing,High Net Worth,N,No,11,54 6th Trail,2640,NSW,Australia,7,504,0.8500000000000001,78,80
@@ -563,11 +563,11 @@ Oswald,MacCarlich,Male,81,1991-11-24,Assistant Media Planner,Entertainment,Mass 
 Ailyn,Howgate,Female,66,2001-09-27,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,2,197 Northport Plaza,4213,QLD,Australia,7,568,0.8,21,30
 Karol,Salthouse,Female,53,1968-07-29,Research Assistant III,Financial Services,Mass Customer,N,Yes,18,10236 Mifflin Avenue,2570,NSW,Australia,8,568,0.8,55,60
 Esdras,Birchett,Male,81,1950-12-09,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,21,5287 Clarendon Plaza,2258,NSW,Australia,9,568,0.8,72,80
-Wilfrid,Gertray,Male,1,1942-08-23,Accounting Assistant I,Financial Services,Mass Customer,N,No,16,38407 Sutteridge Circle,2766,NSW,Australia,8,568,0.8,80,80
+Wilfrid,Gertray,Male,1,1942-08-23,Accounting Assistant I,Financial Services,Mass Customer,N,No,16,38407 Sutteridge Circle,2766,NSW,Australia,8,568,0.8,81,90
 Charmain,Styles,Female,49,1965-02-25,Programmer Analyst I,Property,High Net Worth,N,Yes,18,423 Holy Cross Lane,3029,VIC,Australia,7,574,0.7989999999999999,58,60
 Kirsteni,Gritskov,Female,66,1998-05-12,Associate Professor,Missing,Mass Customer,N,No,4,743 Stuart Terrace,2560,NSW,Australia,7,575,0.796875,25,30
 Bobby,Summersby,Male,90,1943-10-27,Sales Associate,Financial Services,Affluent Customer,N,No,7,1478 Oak Valley Park,3350,VIC,Australia,2,575,0.796875,79,80
-Shepherd,Dutchburn,Male,33,1976-08-12,Senior Sales Associate,Financial Services,High Net Worth,N,Yes,9,8970 Anhalt Junction,2160,NSW,Australia,9,575,0.796875,46,50
+Shepherd,Dutchburn,Male,33,1976-08-12,Senior Sales Associate,Financial Services,High Net Worth,N,Yes,9,8970 Anhalt Junction,2160,NSW,Australia,9,575,0.796875,47,50
 Berenice,Kaesmakers,Female,64,1994-10-15,Sales Representative,Retail,Mass Customer,N,No,11,563 Waywood Park,2145,NSW,Australia,9,575,0.796875,28,30
 Jesse,Crosio,Male,75,1994-04-15,Data Coordiator,Missing,Mass Customer,N,Yes,13,9313 Mayer Street,3133,VIC,Australia,8,575,0.796875,29,30
 Cordi,Thornton,Female,47,1973-01-04,Structural Engineer,Telecommunications,Mass Customer,N,No,11,2978 Mccormick Center,2028,NSW,Australia,10,575,0.796875,50,50
@@ -598,7 +598,7 @@ Annabell,Downer,Female,33,1955-11-25,Budget/Accounting Analyst II,Missing,Afflue
 Maximilian,Geffen,Male,96,1955-07-13,Automation Specialist III,Manufacturing,Mass Customer,N,Yes,20,8634 Wayridge Pass,2750,NSW,Australia,8,606,0.7649999999999999,68,70
 Ajay,Worham,Female,80,1979-09-30,Computer Systems Analyst I,Manufacturing,Mass Customer,N,Yes,12,5 Homewood Road,2800,NSW,Australia,6,606,0.7649999999999999,43,50
 Jamison,Cashin,Male,70,1970-05-19,VP Product Management,Health,Mass Customer,N,Yes,5,7 Dunning Avenue,2477,NSW,Australia,8,609,0.7625,53,60
-Dorian,Emery,Female,94,1998-08-24,Professor,Manufacturing,Mass Customer,N,Yes,9,67 Beilfuss Plaza,2168,NSW,Australia,8,609,0.7625,24,30
+Dorian,Emery,Female,94,1998-08-24,Professor,Manufacturing,Mass Customer,N,Yes,9,67 Beilfuss Plaza,2168,NSW,Australia,8,609,0.7625,25,30
 Nicol,Swinford,Male,65,1976-12-07,VP Marketing,Property,High Net Worth,N,No,16,976 Roxbury Alley,4157,QLD,Australia,7,609,0.7625,46,50
 Agna,Cowpe,Female,88,1969-03-05,Associate Professor,Property,Mass Customer,N,Yes,7,2 Main Lane,4114,QLD,Australia,3,612,0.7570312499999999,54,60
 Nev,Prosh,Male,29,1950-05-08,Environmental Tech,Health,Affluent Customer,N,Yes,17,6115 Forest Crossing,2148,NSW,Australia,8,612,0.7570312499999999,73,80
@@ -617,7 +617,7 @@ Ardis,Taree,Female,97,1960-04-12,Chemical Engineer,Manufacturing,Affluent Custom
 Wheeler,Godsil,Male,51,1993-09-20,Geologist IV,Manufacturing,Affluent Customer,N,Yes,6,7 Spaight Drive,2147,NSW,Australia,9,626,0.74375,29,30
 Marissa,O'Scandall,Female,17,1973-07-13,Associate Professor,Missing,Affluent Customer,N,Yes,7,45000 Randy Court,3199,VIC,Australia,7,626,0.74375,50,50
 Terrel,Keynd,Male,30,1961-04-20,Junior Executive,Manufacturing,Mass Customer,N,No,9,65 David Pass,4221,QLD,Australia,7,626,0.74375,62,70
-Augie,Swallwell,Male,42,1939-08-22,Associate Professor,Property,Affluent Customer,N,Yes,13,7 Golden Leaf Avenue,2400,NSW,Australia,2,626,0.74375,83,90
+Augie,Swallwell,Male,42,1939-08-22,Associate Professor,Property,Affluent Customer,N,Yes,13,7 Golden Leaf Avenue,2400,NSW,Australia,2,626,0.74375,84,90
 Dillon,Bannister,Male,7,1945-12-24,Tax Accountant,Missing,Mass Customer,N,No,11,43 Dayton Drive,2062,NSW,Australia,9,626,0.74375,77,80
 Osbourn,Gherardini,Male,43,1987-05-01,Associate Professor,Missing,High Net Worth,N,Yes,16,5 Dryden Road,2782,NSW,Australia,7,626,0.74375,36,40
 Lissa,Gawn,Female,86,1962-09-21,Legal Assistant,Health,Mass Customer,N,Yes,17,14183 Iowa Center,4503,QLD,Australia,5,632,0.74,60,60
@@ -665,7 +665,7 @@ Cobbie,Bruyett,Male,20,1956-03-19,Associate Professor,Missing,Mass Customer,N,Ye
 Wrennie,Dwelly,Female,23,1940-03-11,Operator,Manufacturing,Mass Customer,N,No,18,179 Carey Terrace,3020,VIC,Australia,9,674,0.703125,83,90
 Sibylla,Kibble,Female,73,1962-08-05,Pharmacist,Health,High Net Worth,N,No,12,3 Ruskin Hill,2122,NSW,Australia,9,676,0.70125,61,70
 Kariotta,Naper,Female,8,1952-04-07,VP Sales,Health,Mass Customer,N,No,21,87 Crescent Oaks Alley,2756,NSW,Australia,10,676,0.70125,71,80
-Wylie,Huntingdon,Male,99,1966-08-11,VP Quality Control,Financial Services,Mass Customer,N,No,15,08822 Duke Road,2763,NSW,Australia,8,676,0.70125,56,60
+Wylie,Huntingdon,Male,99,1966-08-11,VP Quality Control,Financial Services,Mass Customer,N,No,15,08822 Duke Road,2763,NSW,Australia,8,676,0.70125,57,60
 Lizbeth,Garvan,Female,36,1996-09-06,Structural Analysis Engineer,Health,Mass Customer,N,No,4,5 Schurz Street,2141,NSW,Australia,9,676,0.70125,26,30
 Averil,Ackery,Male,93,1970-09-09,Sales Representative,Retail,Mass Customer,N,Yes,7,344 Darwin Junction,2093,NSW,Australia,12,676,0.70125,52,60
 Myrtie,Ostrich,Female,70,1996-06-18,VP Quality Control,Property,Affluent Customer,N,Yes,9,320 Acker Drive,2251,NSW,Australia,7,676,0.70125,27,30
@@ -695,7 +695,7 @@ Suzy,Bussens,Female,44,1973-04-29,Associate Professor,Financial Services,Mass Cu
 Emeline,Vezey,Female,37,1953-08-07,Dental Hygienist,Health,Affluent Customer,N,Yes,19,2 Golden Leaf Parkway,3759,VIC,Australia,7,700,0.6875,70,70
 Cissiee,Baylis,Female,99,1951-07-22,Cost Accountant,Financial Services,High Net Worth,N,No,16,18 Dottie Park,2230,NSW,Australia,11,700,0.6875,72,80
 Roldan,Raybould,Male,27,1975-11-18,Actuary,Financial Services,Mass Customer,N,No,11,85 Badeau Pass,3158,VIC,Australia,8,700,0.6875,47,50
-Barth,Weare,Male,18,1946-08-22,Clinical Specialist,Health,Mass Customer,N,Yes,8,784 Lotheville Court,2541,NSW,Australia,5,708,0.68,76,80
+Barth,Weare,Male,18,1946-08-22,Clinical Specialist,Health,Mass Customer,N,Yes,8,784 Lotheville Court,2541,NSW,Australia,5,708,0.68,77,80
 Alta,Pithcock,Female,64,1999-11-18,GIS Technical Architect,Financial Services,Mass Customer,N,No,2,57568 Northview Junction,2141,NSW,Australia,7,708,0.68,23,30
 Marc,Keunemann,Male,57,1972-09-04,Dental Hygienist,Health,Affluent Customer,N,Yes,14,283 Golf View Lane,2747,NSW,Australia,8,708,0.68,50,50
 Bertine,Smalles,Female,85,1983-12-10,VP Quality Control,Financial Services,Mass Customer,N,Yes,9,7 Johnson Hill,3028,VIC,Australia,8,708,0.68,39,40
@@ -710,7 +710,7 @@ Nalani,Hallad,Female,15,1999-11-30,Environmental Specialist,Health,Affluent Cust
 Inglebert,Butland,Male,71,1966-01-30,Actuary,Financial Services,Mass Customer,N,Yes,7,51837 Canary Center,2114,NSW,Australia,9,719,0.675,57,60
 Brendis,Pineaux,Male,12,1978-01-15,Mechanical Systems Engineer,Manufacturing,Mass Customer,N,No,5,43030 Carberry Way,2560,NSW,Australia,4,719,0.675,45,50
 Jaimie,Lancastle,Male,71,1972-10-23,VP Marketing,Missing,Mass Customer,N,Yes,5,0 Bay Drive,2750,NSW,Australia,8,722,0.6715,50,50
-Glendon,Malham,Male,36,1965-08-21,Web Designer I,Manufacturing,Mass Customer,N,No,17,6 Anzinger Pass,3030,VIC,Australia,6,722,0.6715,57,60
+Glendon,Malham,Male,36,1965-08-21,Web Designer I,Manufacturing,Mass Customer,N,No,17,6 Anzinger Pass,3030,VIC,Australia,6,722,0.6715,58,60
 Morganica,Bentke,Female,40,1977-01-03,Marketing Assistant,IT,Affluent Customer,N,Yes,21,19453 Ramsey Point,3067,VIC,Australia,11,724,0.67,46,50
 Calida,Schaben,Female,54,1969-03-06,Recruiting Manager,Missing,Mass Customer,N,Yes,10,1861 Chive Court,2199,NSW,Australia,9,725,0.6693749999999999,54,60
 Hallsy,Voysey,Male,83,1970-03-11,Business Systems Development Analyst,Missing,Mass Customer,N,No,16,9 Westerfield Point,3437,VIC,Australia,9,725,0.6693749999999999,53,60
@@ -732,7 +732,7 @@ Glory,Chilcott,Female,49,1939-09-09,Associate Professor,Telecommunications,High 
 Sinclair,Wark,Male,68,1974-02-21,Financial Analyst,Financial Services,Mass Customer,N,Yes,11,44 Thompson Center,2134,NSW,Australia,9,741,0.65875,49,50
 Tomaso,Horsley,Male,97,2001-04-16,Junior Executive,Financial Services,Mass Customer,N,Yes,10,70360 Onsgard Plaza,3977,VIC,Australia,6,741,0.65875,22,30
 Gilli,Christophers,Female,70,1948-03-02,Database Administrator IV,Property,Affluent Customer,N,Yes,17,53870 Jay Pass,4575,QLD,Australia,9,744,0.65625,75,80
-Errick,Burgin,Male,87,1998-08-19,Professor,Entertainment,Mass Customer,N,No,11,417 Killdeer Alley,2650,NSW,Australia,2,744,0.65625,24,30
+Errick,Burgin,Male,87,1998-08-19,Professor,Entertainment,Mass Customer,N,No,11,417 Killdeer Alley,2650,NSW,Australia,2,744,0.65625,25,30
 Damian,Renard,Male,43,1976-07-19,Software Consultant,Retail,Affluent Customer,N,No,8,28 Prentice Trail,2155,NSW,Australia,10,744,0.65625,47,50
 Agnola,Batterson,Female,86,1980-01-03,Physical Therapy Assistant,Financial Services,Mass Customer,N,No,7,216 Bultman Park,4305,QLD,Australia,3,747,0.6545,43,50
 Riki,Wandtke,Female,25,1962-05-12,Librarian,Entertainment,Mass Customer,N,Yes,5,435 Mitchell Street,4115,QLD,Australia,7,748,0.65078125,61,70
@@ -771,7 +771,7 @@ Pansie,Beccero,Female,35,1964-07-07,Software Test Engineer I,Financial Services,
 Reinaldos,Simmig,Male,55,1955-01-15,Nurse Practicioner,Manufacturing,High Net Worth,N,No,8,6112 Mariners Cove Park,3147,VIC,Australia,10,782,0.6204999999999999,68,70
 Calhoun,Mussington,Male,98,1992-10-13,Dental Hygienist,Health,Mass Customer,N,No,12,176 Fallview Plaza,2019,NSW,Australia,9,782,0.6204999999999999,30,30
 Winn,Wells,Male,66,1994-04-12,Analyst Programmer,Manufacturing,Affluent Customer,N,No,9,544 Pawling Road,2230,NSW,Australia,10,785,0.62,29,30
-Rafi,Brettelle,Male,89,1956-08-12,Operator,Health,High Net Worth,N,No,6,11 Brickson Park Alley,2166,NSW,Australia,10,786,0.61625,66,70
+Rafi,Brettelle,Male,89,1956-08-12,Operator,Health,High Net Worth,N,No,6,11 Brickson Park Alley,2166,NSW,Australia,10,786,0.61625,67,70
 Fey,None,Female,48,1957-09-04,Research Nurse,Health,High Net Worth,N,Yes,11,77 Paget Park,3147,VIC,Australia,12,786,0.61625,65,70
 Verne,Loalday,Male,1,1982-03-20,Marketing Assistant,IT,High Net Worth,N,No,7,598 Memorial Place,2082,NSW,Australia,10,788,0.6125,41,50
 Eleonora,Wiszniewski,Female,49,1980-04-23,Financial Advisor,Financial Services,Affluent Customer,N,No,9,6227 Quincy Terrace,4740,QLD,Australia,2,788,0.6125,43,50
@@ -780,12 +780,12 @@ Eachelle,Noirel,Female,93,1974-01-26,Registered Nurse,Health,Affluent Customer,N
 Carl,Troyes,Male,4,1973-03-12,Associate Professor,Property,Mass Customer,N,No,7,1217 Melody Alley,3109,VIC,Australia,10,791,0.612,50,50
 Cordie,Brankley,Female,79,1954-09-21,Librarian,Entertainment,High Net Worth,N,No,18,46 Westerfield Place,2195,NSW,Australia,6,793,0.6109375000000001,68,70
 Jackie,Pays,Male,21,1955-11-09,Developer I,Health,Mass Customer,N,No,9,75024 Ronald Regan Hill,2135,NSW,Australia,12,794,0.6056249999999999,67,70
-Carroll,Schlagman,Female,61,1951-08-25,Clinical Specialist,Health,Affluent Customer,N,No,13,15 Fisk Road,2099,NSW,Australia,9,795,0.6034999999999999,71,80
+Carroll,Schlagman,Female,61,1951-08-25,Clinical Specialist,Health,Affluent Customer,N,No,13,15 Fisk Road,2099,NSW,Australia,9,795,0.6034999999999999,72,80
 Frans,Idale,Male,1,1969-10-03,Nurse,Manufacturing,Mass Customer,N,No,10,96 Hermina Place,4350,QLD,Australia,2,795,0.6034999999999999,53,60
 Amara,Clow,Female,47,1966-11-17,Biostatistician IV,Financial Services,Mass Customer,N,Yes,13,99376 Namekagon Street,3101,VIC,Australia,12,797,0.6,56,60
 Anthony,Morison,Male,7,1938-06-08,General Manager,Health,Mass Customer,N,No,12,276 Derek Circle,2759,NSW,Australia,9,797,0.6,85,90
 Cherye,Stanfield,Female,0,1981-07-05,Environmental Tech,Manufacturing,Affluent Customer,N,No,13,56766 Mariners Cove Place,2256,NSW,Australia,9,797,0.6,42,50
-Ansell,Tolhurst,Male,77,1949-08-11,Chemical Engineer,Manufacturing,Affluent Customer,N,No,22,13 Montana Place,2232,NSW,Australia,10,797,0.6,73,80
+Ansell,Tolhurst,Male,77,1949-08-11,Chemical Engineer,Manufacturing,Affluent Customer,N,No,22,13 Montana Place,2232,NSW,Australia,10,797,0.6,74,80
 Erminie,Rabidge,Female,64,1982-03-09,Associate Professor,Manufacturing,High Net Worth,N,No,17,1969 Melody Lane,2170,NSW,Australia,8,801,0.59765625,41,50
 Rosene,Beckey,Female,25,1974-05-21,Account Executive,Health,Mass Customer,N,Yes,14,02463 Portage Center,2107,NSW,Australia,11,801,0.59765625,49,50
 Darlleen,Shalcras,Female,77,1980-09-14,Health Coach I,Health,Mass Customer,N,No,11,383 Graceland Avenue,2010,NSW,Australia,10,801,0.59765625,42,50
@@ -817,10 +817,10 @@ Cristie,Bence,Female,49,2000-04-17,Automation Specialist II,Missing,High Net Wor
 Renate,Whyte,Female,60,1963-12-08,Registered Nurse,Health,High Net Worth,N,Yes,15,4189 Laurel Center,2620,NSW,Australia,7,828,0.58,59,60
 Toma,Woolforde,Female,67,1992-03-09,Cost Accountant,Financial Services,Mass Customer,N,Yes,5,76 Melody Avenue,2092,NSW,Australia,12,830,0.5780000000000001,31,40
 Dorie,Dunleavy,Female,24,1962-05-05,Registered Nurse,Health,Affluent Customer,N,No,12,1 Mcguire Lane,3356,VIC,Australia,4,830,0.5780000000000001,61,70
-Ellie,Toope,Female,29,1973-08-11,Staff Accountant III,Property,High Net Worth,N,Yes,4,8734 Fulton Hill,2156,NSW,Australia,11,832,0.5750000000000001,49,50
+Ellie,Toope,Female,29,1973-08-11,Staff Accountant III,Property,High Net Worth,N,Yes,4,8734 Fulton Hill,2156,NSW,Australia,11,832,0.5750000000000001,50,50
 Leonora,Swetenham,Female,66,1967-10-05,Associate Professor,IT,Mass Customer,N,Yes,10,660 Hallows Place,2026,NSW,Australia,10,832,0.5750000000000001,55,60
-Teodor,Mullinder,Male,56,1962-08-26,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,11,43 Pond Junction,3216,VIC,Australia,5,832,0.5750000000000001,60,60
-Jared,Fendlow,Male,79,1963-08-25,Media Manager II,Financial Services,Mass Customer,N,No,15,6195 Bellgrove Lane,4211,QLD,Australia,7,832,0.5750000000000001,59,60
+Teodor,Mullinder,Male,56,1962-08-26,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,11,43 Pond Junction,3216,VIC,Australia,5,832,0.5750000000000001,61,70
+Jared,Fendlow,Male,79,1963-08-25,Media Manager II,Financial Services,Mass Customer,N,No,15,6195 Bellgrove Lane,4211,QLD,Australia,7,832,0.5750000000000001,60,60
 Andy,Deeming,Male,79,1979-01-09,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,N,Yes,7,63386 Talisman Hill,4556,QLD,Australia,8,832,0.5750000000000001,44,50
 Monty,Thomazin,Male,7,1951-09-16,Quality Engineer,Missing,Mass Customer,N,Yes,13,30738 Muir Avenue,3105,VIC,Australia,10,838,0.57375,71,80
 Briano,Janowski,Male,66,1994-07-17,Analyst Programmer,Missing,Mass Customer,N,No,7,3259 Eagan Parkway,2066,NSW,Australia,8,838,0.57375,29,30
@@ -837,7 +837,7 @@ Meridith,Urwin,Female,62,1997-03-07,Registered Nurse,Health,High Net Worth,N,Yes
 Leeland,None,Male,66,1957-01-24,VP Quality Control,Telecommunications,High Net Worth,N,No,12,9 Stephen Center,4122,QLD,Australia,4,845,0.5631250000000001,66,70
 Gerta,Porrett,Female,46,1959-11-13,Registered Nurse,Health,High Net Worth,N,No,12,074 Badeau Crossing,3250,VIC,Australia,2,851,0.5625,63,70
 Karrah,Howell,Female,63,1956-11-07,Civil Engineer,Manufacturing,Mass Customer,N,No,17,4897 Melody Road,2566,NSW,Australia,9,851,0.5625,66,70
-Alick,Baise,Male,62,1998-08-16,Pharmacist,Health,Mass Customer,N,Yes,1,096 Gateway Road,2747,NSW,Australia,8,851,0.5625,24,30
+Alick,Baise,Male,62,1998-08-16,Pharmacist,Health,Mass Customer,N,Yes,1,096 Gateway Road,2747,NSW,Australia,8,851,0.5625,25,30
 Casandra,Betteridge,Female,29,1942-09-10,Cost Accountant,Financial Services,Affluent Customer,N,Yes,9,68 Bluestem Center,3166,VIC,Australia,10,854,0.561,80,80
 Maurine,Clee,Female,45,1980-09-13,Automation Specialist II,Property,High Net Worth,N,Yes,5,6 Maple Plaza,2042,NSW,Australia,10,854,0.561,42,50
 Darwin,Bumpas,Male,24,1978-12-27,Junior Executive,Health,Affluent Customer,N,Yes,18,6812 Gina Point,3082,VIC,Australia,7,856,0.56,44,50
@@ -847,7 +847,7 @@ Markus,Pendrey,Male,88,1959-08-01,Clinical Specialist,Health,Affluent Customer,N
 Sile,Zappel,Female,47,1958-03-29,Business Systems Development Analyst,IT,High Net Worth,N,No,15,44350 Buell Alley,4018,QLD,Australia,6,859,0.5578124999999999,65,70
 Craggy,Happel,Male,37,1979-02-10,Marketing Manager,Manufacturing,High Net Worth,N,Yes,8,23 Del Sol Alley,3064,VIC,Australia,6,859,0.5578124999999999,44,50
 Egor,Mariette,Male,42,1980-11-26,Financial Advisor,Financial Services,Affluent Customer,N,No,3,79 Mockingbird Plaza,3163,VIC,Australia,7,862,0.5525,42,50
-Reinald,Bembrigg,Male,54,1953-08-21,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,10,858 Portage Hill,2770,NSW,Australia,7,862,0.5525,69,70
+Reinald,Bembrigg,Male,54,1953-08-21,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,10,858 Portage Hill,2770,NSW,Australia,7,862,0.5525,70,70
 Kissie,Line,Female,2,2000-05-20,Environmental Tech,Manufacturing,Affluent Customer,N,Yes,7,629 Grasskamp Junction,2200,NSW,Australia,9,862,0.5525,23,30
 Quentin,Gerleit,Female,32,1990-09-15,Associate Professor,Manufacturing,Mass Customer,N,No,4,88 Aberg Circle,3806,VIC,Australia,8,865,0.55,32,40
 Karoly,Burgoine,Male,57,1947-04-06,Account Representative IV,Health,High Net Worth,N,Yes,21,18 Morning Circle,3012,VIC,Australia,2,865,0.55,76,80
@@ -856,7 +856,7 @@ Mycah,Beaston,Male,11,1961-07-31,Environmental Specialist,Missing,High Net Worth
 Clemmie,Bartoszewicz,Female,87,1958-07-28,Statistician IV,Financial Services,Mass Customer,N,No,8,727 Morrow Parkway,3197,VIC,Australia,9,865,0.55,65,70
 Randall,Mason,Male,95,1974-07-28,Product Engineer,Health,Mass Customer,N,Yes,12,83497 Memorial Plaza,2570,NSW,Australia,11,870,0.544,49,50
 Donica,Humby,Female,47,1967-06-01,Senior Cost Accountant,Financial Services,Mass Customer,N,No,4,488 Briar Crest Court,2101,NSW,Australia,12,871,0.541875,56,60
-Lotty,Loach,Female,76,1961-08-23,Nurse,Health,High Net Worth,N,Yes,7,78451 South Street,2380,NSW,Australia,3,871,0.541875,61,70
+Lotty,Loach,Female,76,1961-08-23,Nurse,Health,High Net Worth,N,Yes,7,78451 South Street,2380,NSW,Australia,3,871,0.541875,62,70
 Marie-jeanne,Breawood,Female,37,1953-10-12,Clinical Specialist,Health,High Net Worth,N,No,8,6 Prairieview Pass,2770,NSW,Australia,6,871,0.541875,69,70
 Babara,Sissel,Female,50,1974-06-08,Associate Professor,IT,Mass Customer,N,Yes,21,5 Ohio Road,3169,VIC,Australia,10,871,0.541875,49,50
 Rodolphe,Glenton,Male,88,1974-09-28,Programmer Analyst II,Financial Services,Affluent Customer,N,No,11,4787 Golf Terrace,3163,VIC,Australia,7,871,0.541875,48,50
@@ -882,7 +882,7 @@ Kelcie,Kingaby,Female,54,2000-03-24,Systems Administrator II,IT,Mass Customer,N,
 Fabio,Commuzzo,Male,5,1961-10-02,Software Test Engineer II,Manufacturing,Mass Customer,N,No,18,66 Shopko Circle,3806,VIC,Australia,8,896,0.52,61,70
 Heall,Andrioli,Male,46,1941-06-17,Environmental Tech,IT,Affluent Customer,N,Yes,7,370 Eastwood Road,4133,QLD,Australia,5,896,0.52,82,90
 Rickert,Brasted,Male,47,1959-09-18,Staff Scientist,Health,Mass Customer,N,No,10,20 Hoffman Park,2145,NSW,Australia,9,898,0.5125,63,70
-Hedwig,Jayme,Female,38,1952-08-21,Accountant IV,Property,Affluent Customer,N,No,11,6293 Hooker Point,2099,NSW,Australia,10,899,0.51,70,70
+Hedwig,Jayme,Female,38,1952-08-21,Accountant IV,Property,Affluent Customer,N,No,11,6293 Hooker Point,2099,NSW,Australia,10,899,0.51,71,80
 Penrod,Tomasicchio,Male,5,1968-05-28,Associate Professor,Health,High Net Worth,N,No,19,30 Harper Trail,2318,NSW,Australia,9,899,0.51,55,60
 Pancho,Edis,Male,1,1970-12-30,Assistant Professor,Missing,Mass Customer,N,No,13,64467 Pankratz Pass,3023,VIC,Australia,7,899,0.51,52,60
 Andriana,Gosnoll,Female,53,1964-05-19,Chief Design Engineer,Manufacturing,Mass Customer,N,No,8,900 Brown Junction,2291,NSW,Australia,10,899,0.51,59,60
@@ -908,18 +908,18 @@ Rubia,Evetts,Female,59,1990-12-21,Pharmacist,Health,Mass Customer,N,No,16,64213 
 Francklin,Cross,Male,51,1981-04-06,Teacher,Property,Mass Customer,N,Yes,3,24593 Jackson Parkway,2231,NSW,Australia,10,921,0.49,42,50
 Wilone,Champley,Female,22,1983-11-06,Associate Professor,Manufacturing,High Net Worth,N,No,17,9346 Lyons Point,2077,NSW,Australia,10,924,0.48875,39,40
 Lezlie,Clemits,Female,2,1973-05-30,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,15,0504 Nevada Drive,2155,NSW,Australia,10,924,0.48875,50,50
-Kathe,Oller,Female,47,1959-08-20,General Manager,Manufacturing,Mass Customer,N,Yes,5,817 Loftsgordon Road,3029,VIC,Australia,4,926,0.4844999999999999,63,70
+Kathe,Oller,Female,47,1959-08-20,General Manager,Manufacturing,Mass Customer,N,Yes,5,817 Loftsgordon Road,3029,VIC,Australia,4,926,0.4844999999999999,64,70
 Dulce,Bradwell,Female,61,1957-07-03,Research Associate,Manufacturing,Mass Customer,N,No,20,30 Lukken Point,4159,QLD,Australia,9,926,0.4844999999999999,66,70
 Felice,Dechelette,Male,75,1998-02-05,Librarian,Entertainment,High Net Worth,N,No,3,4 Kingsford Trail,4051,QLD,Australia,4,928,0.48,25,30
 Joane,Caldes,Female,84,1978-03-17,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,13,42 3rd Plaza,2250,NSW,Australia,7,928,0.48,45,50
-Diane,Furman,Female,67,1993-08-11,Associate Professor,Manufacturing,Affluent Customer,N,Yes,13,6660 Riverside Circle,3013,VIC,Australia,9,930,0.478125,29,30
+Diane,Furman,Female,67,1993-08-11,Associate Professor,Manufacturing,Affluent Customer,N,Yes,13,6660 Riverside Circle,3013,VIC,Australia,9,930,0.478125,30,30
 Ogdan,Blenkinship,Male,65,1951-01-18,Occupational Therapist,Health,Mass Customer,N,Yes,21,21712 Texas Court,3429,VIC,Australia,5,930,0.478125,72,80
 Kizzee,Agget,Female,98,1976-07-25,Statistician II,Manufacturing,Affluent Customer,N,No,8,122 Marcy Park,2213,NSW,Australia,10,930,0.478125,47,50
 Stephi,Highton,Female,30,1987-09-09,Software Engineer I,Telecommunications,Mass Customer,N,Yes,12,293 Mendota Park,2154,NSW,Australia,10,930,0.478125,35,40
 Martino,Scoles,Male,18,1975-01-19,Senior Financial Analyst,Financial Services,Mass Customer,N,No,14,47 Scofield Junction,3620,VIC,Australia,4,930,0.478125,48,50
 Morgen,Newport,Female,5,1960-08-31,Project Manager,Manufacturing,Mass Customer,N,No,6,9 Washington Center,3340,VIC,Australia,4,930,0.478125,62,70
-Eugenie,Brinson,Female,79,1963-08-10,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,17,7109 Grayhawk Avenue,3073,VIC,Australia,6,936,0.476,59,60
-Reinold,Natt,Male,16,1964-08-23,Help Desk Technician,Financial Services,High Net Worth,N,Yes,8,70 Evergreen Hill,3207,VIC,Australia,8,937,0.47,58,60
+Eugenie,Brinson,Female,79,1963-08-10,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,17,7109 Grayhawk Avenue,3073,VIC,Australia,6,936,0.476,60,60
+Reinold,Natt,Male,16,1964-08-23,Help Desk Technician,Financial Services,High Net Worth,N,Yes,8,70 Evergreen Hill,3207,VIC,Australia,8,937,0.47,59,60
 Jo,Roberts,Female,41,1945-10-31,Paralegal,Financial Services,High Net Worth,N,Yes,11,20139 Lakewood Plaza,2440,NSW,Australia,3,937,0.47,77,80
 Jacklin,Duchant,Female,77,1940-03-18,Legal Assistant,Argiculture,Mass Customer,N,No,17,9 Memorial Road,4132,QLD,Australia,4,939,0.4675,83,90
 Colas,Gabbitas,Male,98,1946-09-09,Staff Scientist,Retail,High Net Worth,N,No,20,3094 Elka Place,2166,NSW,Australia,9,939,0.4675,76,80
@@ -927,9 +927,9 @@ Claudetta,Ricciardiello,Female,61,1974-04-30,Internal Auditor,Financial Services
 Angele,Cadore,Female,5,1954-09-06,Chief Design Engineer,Missing,Mass Customer,N,Yes,7,85894 Amoth Court,4125,QLD,Australia,7,939,0.4675,68,70
 Cicily,Hast,Female,63,1971-04-26,Food Chemist,Health,Affluent Customer,N,Yes,8,955 Burning Wood Way,2478,NSW,Australia,3,939,0.4675,52,60
 Harland,Messenger,Male,90,1974-05-28,Software Test Engineer I,Retail,Mass Customer,N,No,8,27 Crownhardt Center,3934,VIC,Australia,10,944,0.46,49,50
-Sim,Constantinou,Male,91,1992-08-09,Analog Circuit Design manager,Property,Mass Customer,N,No,5,41002 Loomis Park,2010,NSW,Australia,9,944,0.46,30,30
-Shanon,Rolfe,Female,63,1941-08-19,Sales Representative,Retail,High Net Worth,N,No,8,10 Cottonwood Point,2530,NSW,Australia,7,944,0.46,81,90
-Chryste,Oddboy,Female,44,1988-08-22,Software Engineer III,Manufacturing,High Net Worth,N,Yes,4,2115 Maryland Alley,2320,NSW,Australia,9,947,0.459,34,40
+Sim,Constantinou,Male,91,1992-08-09,Analog Circuit Design manager,Property,Mass Customer,N,No,5,41002 Loomis Park,2010,NSW,Australia,9,944,0.46,31,40
+Shanon,Rolfe,Female,63,1941-08-19,Sales Representative,Retail,High Net Worth,N,No,8,10 Cottonwood Point,2530,NSW,Australia,7,944,0.46,82,90
+Chryste,Oddboy,Female,44,1988-08-22,Software Engineer III,Manufacturing,High Net Worth,N,Yes,4,2115 Maryland Alley,2320,NSW,Australia,9,947,0.459,35,40
 Edin,Patinkin,Female,35,1992-03-26,Account Executive,Health,Mass Customer,N,No,17,6 Milwaukee Hill,3015,VIC,Australia,4,948,0.456875,31,40
 Nolly,Ivanchikov,Male,13,1994-02-10,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,11,6792 Kropf Hill,2049,NSW,Australia,11,948,0.456875,29,30
 Michele,Pammenter,Male,23,1983-06-26,Teacher,Health,High Net Worth,N,No,2,37 Mesta Road,3198,VIC,Australia,8,948,0.456875,40,40
@@ -939,7 +939,7 @@ Candy,None,Female,23,1977-12-08,Associate Professor,Financial Services,Mass Cust
 Noami,Cokly,Female,74,1962-09-17,Associate Professor,Manufacturing,Mass Customer,N,Yes,15,2886 Buena Vista Terrace,2038,NSW,Australia,11,954,0.45,60,60
 Lyndell,Jereatt,Female,14,1994-11-28,Payment Adjustment Coordinator,Missing,High Net Worth,N,No,13,58770 Monterey Plaza,2122,NSW,Australia,12,954,0.45,28,30
 Maximilien,Bourget,Male,12,1969-04-29,Geologist I,Financial Services,Mass Customer,N,Yes,6,2941 Loftsgordon Hill,3337,VIC,Australia,7,956,0.44625,54,60
-Benedikta,Naptin,Female,59,1995-08-13,Operator,Retail,Mass Customer,N,Yes,15,345 Fieldstone Park,2121,NSW,Australia,11,956,0.44625,27,30
+Benedikta,Naptin,Female,59,1995-08-13,Operator,Retail,Mass Customer,N,Yes,15,345 Fieldstone Park,2121,NSW,Australia,11,956,0.44625,28,30
 Rhodie,Gaskall,Female,83,1964-02-01,VP Quality Control,Missing,Mass Customer,N,Yes,9,251 Pierstorff Alley,4170,QLD,Australia,9,956,0.44625,59,60
 Afton,Andrassy,Female,78,1998-10-14,Web Designer II,Retail,Mass Customer,N,No,7,220 Cody Alley,3075,VIC,Australia,8,956,0.44625,24,30
 Blondell,Dibdall,Female,62,1967-01-03,Programmer III,Missing,Mass Customer,N,No,4,34 Bunting Pass,3048,VIC,Australia,4,960,0.442,56,60
@@ -949,11 +949,11 @@ Don,Spratling,Male,82,1969-01-05,Associate Professor,Property,Affluent Customer,
 Moll,Ogilby,Female,25,1980-12-19,Research Assistant III,Manufacturing,Mass Customer,N,Yes,13,6 Hansons Crossing,4123,QLD,Australia,6,963,0.44,42,50
 Jammie,Seldner,Female,42,1975-02-25,Human Resources Manager,Health,Mass Customer,N,Yes,15,8 Saint Paul Junction,2066,NSW,Australia,10,963,0.44,48,50
 Inglis,Pickaver,Male,33,1994-06-25,Product Engineer,Telecommunications,Affluent Customer,N,No,1,14067 Armistice Plaza,2770,NSW,Australia,8,963,0.44,29,30
-Clarabelle,Broschek,Female,6,1963-08-25,Geological Engineer,Manufacturing,Mass Customer,N,No,18,8491 Pennsylvania Crossing,4035,QLD,Australia,6,967,0.4356249999999999,59,60
-Tillie,Bisseker,Female,74,1960-08-10,Civil Engineer,Manufacturing,High Net Worth,N,No,14,59208 Barnett Avenue,2104,NSW,Australia,12,967,0.4356249999999999,62,70
+Clarabelle,Broschek,Female,6,1963-08-25,Geological Engineer,Manufacturing,Mass Customer,N,No,18,8491 Pennsylvania Crossing,4035,QLD,Australia,6,967,0.4356249999999999,60,60
+Tillie,Bisseker,Female,74,1960-08-10,Civil Engineer,Manufacturing,High Net Worth,N,No,14,59208 Barnett Avenue,2104,NSW,Australia,12,967,0.4356249999999999,63,70
 Irving,Babcock,Male,60,1986-01-17,Dental Hygienist,Health,High Net Worth,N,Yes,15,36 Killdeer Crossing,2705,NSW,Australia,1,967,0.4356249999999999,37,40
 Evered,Gludor,Male,3,1951-04-30,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,15,305 Sloan Junction,2168,NSW,Australia,8,967,0.4356249999999999,72,80
-Mavra,Finan,Female,30,1967-08-23,Nurse,Property,Affluent Customer,N,Yes,4,88 Shopko Way,2034,NSW,Australia,9,967,0.4356249999999999,55,60
+Mavra,Finan,Female,30,1967-08-23,Nurse,Property,Affluent Customer,N,Yes,4,88 Shopko Way,2034,NSW,Australia,9,967,0.4356249999999999,56,60
 Frieda,Tavinor,Female,43,1999-03-04,Associate Professor,Missing,Affluent Customer,N,No,10,7 Mallory Lane,3064,VIC,Australia,6,972,0.43,24,30
 Ellwood,Budden,Male,82,1998-06-03,Associate Professor,Health,Mass Customer,N,Yes,11,79907 Randy Center,2192,NSW,Australia,10,972,0.43,25,30
 Alex,Patshull,Female,37,1966-01-02,Senior Quality Engineer,Retail,Mass Customer,N,Yes,13,446 High Crossing Way,4165,QLD,Australia,5,974,0.425,57,60
@@ -964,7 +964,7 @@ Beverly,Domnick,Female,56,1938-12-10,Structural Analysis Engineer,IT,Mass Custom
 Artemis,Swanson,Male,77,1977-02-12,Web Designer II,Argiculture,Mass Customer,N,Yes,13,5 Melvin Park,3810,VIC,Australia,5,979,0.4165,46,50
 Daryle,Marginson,Male,93,1986-06-27,Environmental Tech,Argiculture,Mass Customer,N,Yes,9,21316 Ohio Place,2121,NSW,Australia,12,979,0.4165,37,40
 Tyne,Anshell,Female,71,1992-04-08,Mechanical Systems Engineer,Missing,Mass Customer,N,Yes,3,93 Sutherland Terrace,2560,NSW,Australia,8,979,0.4165,31,40
-Leona,Shorrock,Female,83,1951-08-23,Senior Quality Engineer,Financial Services,Affluent Customer,N,Yes,22,1560 Grim Avenue,4720,QLD,Australia,1,979,0.4165,71,80
+Leona,Shorrock,Female,83,1951-08-23,Senior Quality Engineer,Financial Services,Affluent Customer,N,Yes,22,1560 Grim Avenue,4720,QLD,Australia,1,979,0.4165,72,80
 Bertrando,Carass,Male,45,1956-06-25,Sales Associate,Property,Mass Customer,N,No,8,1 Quincy Road,2565,NSW,Australia,5,983,0.41,67,70
 Augusta,Munns,Female,5,1951-09-17,Quality Control Specialist,Missing,Mass Customer,N,No,21,607 Memorial Avenue,2074,NSW,Australia,11,983,0.41,71,80
 Lauralee,Fudge,Female,83,1987-09-21,Research Nurse,Health,Mass Customer,N,No,15,9460 Monument Park,3277,VIC,Australia,4,985,0.408,35,40
