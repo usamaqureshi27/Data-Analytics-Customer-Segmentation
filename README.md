@@ -75,7 +75,7 @@ The datasets used include:
 ## Tools and Technologies Used
 The tools used in this project include:
 + **Python** - This was needed to conduct Data Quality Assessment and also for Data Cleaning processes. With Python libraries **pandas, matplotlib, seaborn** exploratory data analysis of the datasets and to gain useful insights from the data was possible.
-+ **Tableau **- This Business Intelligence tool was required to explore data and create charts, graphs, visualizations to come up with a Sales Dashboard for Customer Segmenatation for the automobile bike company.
++ **Tableau**- This Business Intelligence tool was required to explore data and create charts, graphs, visualizations to come up with a Sales Dashboard for Customer Segmenatation for the automobile bike company.
 
 ## Built With
 + Python 3.10.11, Tableau
