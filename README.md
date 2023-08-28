@@ -63,7 +63,8 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 + Bike purchases over last 3 years by Gender
   + Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
   + The Female purchases are 10,000 more than that of Male purchases (numerically).
-![](media/Gender%20based%20bike%20purchase.png)
+  
+![](Media/Gender%20based%20bike%20purchase.png)
 
 + New vs Old Customers Job Industry Distribution
   + Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
@@ -88,7 +89,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   + In Victoria and Queensland the proportion is quite even.
   + In New South Wales the number of people owning a car is significantly lesser than who donot have a car.
 
-![](media/Cars%20owned%20based%20upon%20states.png)
+![](Media/Cars%20owned%20based%20upon%20states.png)
 
 ### 1. RFM Analysis and Customer Segmentation
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.
