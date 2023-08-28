@@ -52,8 +52,8 @@ In the data cleaning step the data quality of the following datasets were first 
 After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
 + New vs Old Customers Age Distribution
   + Most New customers are aged between 40-49 also for Old Customers the most of them are aged between 40-49.
-  + The lowest number of customers for both the types of customers is present in the age bracket under 20 and above 80 age groups.
-  + The automobile company is popular among New Customers among the age groups 20-29 and 40-49.
+  + The lowest number of customers for both the types of customers is present in the age bracket under 30 and above 70 age groups.
+  + The automobile company is popular among New Customers among the age between 40-70.
   + A steep drop in customers is observed in the 30-39 age group among the New Customers.
 
 | Old Customers by Age Distribution | New Customers by Age Distribution |
@@ -66,7 +66,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 ![](media/Gender%20based%20bike%20purchase.png)
 
 + New vs Old Customers Job Industry Distribution
-  + MMost New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
+  + Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
   + The lowest number of customers are from the Agriculture and Telecom sector approx 3%.
   + Similar trend is observed among Old Customers as well.
 
@@ -77,16 +77,16 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 + Wealth Segmentation by Age Category
   + Across all age categories the largest number of customers are from 'Mass Customer' Segment.
   + The next category comes from the 'High Net Worth' customers.
-  + In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.
+  + In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers despite old or new customers.
 
 | Old Customers Wealth by Age Group | New Customers Wealth by Age Group |
 | :------------- | :------------- |
 |![](Media/Old%20Customers%20-%20Wealth%20by%20Age%20Group.png)|![](Media/New%20Customers%20-%20Wealth%20by%20Age%20Group.png)|
 
 + Cars owned by States
-  + New South Wales has the largest number of people who donot own a car.
-  + In Victoria the proportion is quite even.
-  + In Queensland the number of people owning a car is greater than who donot have a car.
+  + New South Wales has the largest number of people who don't own a car.
+  + In Victoria and Queensland the proportion is quite even.
+  + In New South Wales the number of people owning a car is significantly lesser than who donot have a car.
 
 ![](media/Cars%20owned%20based%20upon%20states.png)
 
