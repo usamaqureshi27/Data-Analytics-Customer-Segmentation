@@ -6,7 +6,6 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/app/profile/usama.zafar.qureshi/viz/SalesSegmentation_16916653192370/SalesSegmentation2).
 
-
 ![Tableau Dashboard](Media/Dashboard.png)
 
 **In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:**
@@ -16,8 +15,6 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 + [DQA and Data Cleaning New Customers.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_New_Customers_Cleaned.ipynb)
 + [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Transactions_Cleaned.ipynb)
 + [EDA and RFM Analysis](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/EDA_RFM.ipynb)
-
-
 
 ## Analysis Approach
 
@@ -113,7 +110,6 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 As of the current state of the Automobile business the current distribution of customers segments is depicted below:
 ![](Media/Number%20of%20Customers%20by%20Customer%20Segment.png/)
 
-
 ## Datasets Used
 The datasets used include:
 + **Raw_data.xlsx:** This excel file dataset included the following sheets of data:
@@ -132,4 +128,3 @@ The tools used in this project include:
 
 ## Authors
 + Usama Qureshi - [Github Profile](https://github.com/usamaqureshi27)
-  
