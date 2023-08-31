@@ -14,7 +14,7 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 + [DQA and Data Cleaning Customer Demographics.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Customer_Demographics_Cleaned.ipynb)
 + [DQA and Data Cleaning New Customers.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_New_Customers_Cleaned.ipynb)
 + [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/DQA_Transactions_Cleaned.ipynb)
-+ [EDA and RFM Analysis](https://nbviewer.org/github/usamaqureshi27/Python/blob/main/EDA_RFM%20Analysis.ipynb)
++ [EDA and RFM Analysis](https://nbviewer.org/github/usamaqureshi27/Data-Analytics-Customer-Segmentation/blob/main/EDA_RFM%20Analysis.ipynb))
 
 ## Analysis Approach
 
@@ -91,7 +91,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 ![](Media/Cars%20owned%20based%20upon%20states.png)
 
-### 1. RFM Analysis and Customer Segmentation
+### 1. Customer Segmentation and RFM Analysis
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.
 
 In this analysis the customer segment was divided into 11 groups. The groups being :
@@ -108,8 +108,16 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 + Becoming Loyal
 + Almost lost Customers
 
-As of the current state of the Automobile business the current distribution of customers segments is depicted below:
-![](Media/Number%20of%20Customers%20by%20Customer%20Segment.png/)
+As of the current state of the Automobile business the distribution of customers segments is depicted below:
+![](Media/Number%20of%20Customers%20by%20Customer%20Segment.png)
+
++ Recency and Frequency vs Monetary Distribution
+  + Customers who purchased recently generated more revenue than customers who visited long time ago.
+  + Customers classified as "Platinum Custoers" , "Very Loyal" and "Becoming Loyal" visit frequently.
+
+| Recency vs Monetary | Frequency vs Monetary |
+| :------------- | :------------- |
+|![](Media/Recency vs Monetary.png)|![](Media/Frequency vs Monetary.png)|
 
 ## Datasets Used
 The datasets used include:
