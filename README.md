@@ -117,7 +117,8 @@ As of the current state of the Automobile business the distribution of customers
 
 | Recency vs Monetary | Frequency vs Monetary |
 | :------------- | :------------- |
-|![](Media/Recency vs Monetary.png)|![](Media/Frequency vs Monetary.png)|
+| ![](Media/Recency%20vs%20Monetary.png) | ![](Media/Frequency%20vs%20Monetary.png) |
+
 
 ## Datasets Used
 The datasets used include:
